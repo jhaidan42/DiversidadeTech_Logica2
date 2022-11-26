@@ -84,8 +84,8 @@ A entrada dos dados deve ser feita a partir de um gerador de números aleatório
       - **Tempo médio de espera para decolagem:** Aproximadamente 8 rodadas; 
       - **Tempo médio de espera para aterrissagem:** Aproximadamente 2 rodadas; 
 
-  - **Diagrama do Programa**
-
+  - **Diagrama do Programa**<br>
+      ![Diagrama_logica_2](https://user-images.githubusercontent.com/94374033/204093342-819d784f-7f27-4d35-a26d-1dbde2b7f9a3.png)
 ____
 
 #### :busts_in_silhouette: Participantes:   
