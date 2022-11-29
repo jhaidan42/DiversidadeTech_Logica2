@@ -94,6 +94,3 @@ ____
 - [Jhaidan Ribeiro](https://br.linkedin.com/in/jhaidan42)
 - [Gustavo Henrique Siqueira](www.linkedin.com/in/gustavo-henriques)  
 ____
-
-
-
